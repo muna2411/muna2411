@@ -30,14 +30,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muna2411&theme=nord_bright" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muna2411&theme=nord_bright" alt="Repos Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muna2411&theme=nord_bright" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muna2411&theme=nord_bright" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muna2411&theme=nord_bright&utcOffset=8" alt="Productive Time">
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muna2411&theme=nord_bright)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muna2411&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muna2411&theme=nord_bright)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muna2411&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muna2411&theme=nord_bright&utcOffset=8)
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
