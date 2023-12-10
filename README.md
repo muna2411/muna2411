@@ -4,7 +4,7 @@
 </p>
 
 
-<p style="font-size: 18px;">
+<p style="font-size: 18;">
   🚀 Aspiring Full-Stack Developer 🚀
 
 Hey there! 👋 I'm Muna, a passionate individual who has recently dived into the exciting world of web development. Equipped with skills in HTML, CSS, and Tailwind CSS, I create visually appealing and responsive user interfaces that bring ideas to life.
