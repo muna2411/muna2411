@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nur%20Nahar%20Muna&theme=whatsapp-dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nur%20Nahar%20Muna&theme=whatsapp-dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
