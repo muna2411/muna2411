@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muna2411&theme=shadow-blue)](https://git.io/streak-stats)
 
-  <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=muna2411&theme=shadow-blue)](https://git.io/streak-stats" />
-  </a>
-</p>
 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
