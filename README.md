@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 
