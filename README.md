@@ -1,6 +1,4 @@
 <p align="center">
-### Hi there 👋
-
 <p align="center">
   <img src="https://i.ibb.co/HxZ7yvK/Nur-Nahar-Muna.jpg" alt="Banner Image">
 </p>
