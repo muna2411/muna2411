@@ -2,8 +2,8 @@
 
 <!--
 **muna2411/muna2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="right" width="400" src="https://github.com/muna2411/muna2411/assets/75273255/79834f85-e285-4aff-a164-ae11ac6347b8.gif")
-">
+![image](https://github.com/muna2411/muna2411/assets/75273255/2b36f61a-1369-4cc6-a516-e5bb022d3b05)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
