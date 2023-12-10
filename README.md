@@ -4,14 +4,14 @@
 </p>
 
 
-<h6>
+<p style="font-size: 18px;">
   🚀 Aspiring Full-Stack Developer 🚀
 
 Hey there! 👋 I'm Muna, a passionate individual who has recently dived into the exciting world of web development. Equipped with skills in HTML, CSS, and Tailwind CSS, I create visually appealing and responsive user interfaces that bring ideas to life.
 On the server side, I harness the power of Node.js and Express.js to build robust and scalable backend systems. MongoDB is my database of choice, allowing me to seamlessly store and retrieve data.
 But it doesn't stop there – my journey extends to the frontend with React, where I craft dynamic and interactive user experiences. From concept to implementation, I thrive on turning creative ideas into functional, user-friendly applications.
 Join me on this coding adventure as I continue to learn, grow, and contribute to the ever-evolving landscape of web development! 🚀✨
-</h6>
+</p>
 
 
 Here are some ideas to get you started:
