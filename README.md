@@ -2,7 +2,7 @@
 
 <!--
 **muna2411/muna2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<iframe align="right" width="400" src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
+<img align="right" width="400" src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
