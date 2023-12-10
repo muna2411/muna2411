@@ -3,7 +3,6 @@
   <img src="https://i.ibb.co/HxZ7yvK/Nur-Nahar-Muna.jpg" alt="Banner Image">
 </p>
 
-Certainly! Here's a short description based on your recently acquired skills:
 
 🚀 Aspiring Full-Stack Developer 🚀
 
