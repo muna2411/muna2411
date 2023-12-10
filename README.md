@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muna2411&theme=shadow-blue)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muna2411&theme=shadow-blue)](https://git.io/streak-stats)
 
 
 
