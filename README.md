@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://your-banner-url.com/your-banner-image.png" alt="Banner Image">
+  <img src="https://i.ibb.co/HxZ7yvK/Nur-Nahar-Muna.jpg" alt="Banner Image">
 </p>
 **muna2411/muna2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
