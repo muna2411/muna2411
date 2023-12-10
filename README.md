@@ -50,35 +50,34 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 
 <div align="center">
-  <div style="display: inline-block; margin: 10px;">
+  <div style="background-color: black; color: white; padding: 10px; display: inline-block; margin: 10px;">
     <a href="https://instagram.com/nn_muna" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nn_muna" height="30" width="40" />
     </a>
     <p>Instagram</p>
   </div>
 
-  <div style="display: inline-block; margin: 10px;">
+  <div style="background-color: black; color: white; padding: 10px; display: inline-block; margin: 10px;">
     <a href="https://www.codechef.com/users/nurnaharmuna24" target="blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nurnaharmuna24" height="30" width="40" />
     </a>
     <p>CodeChef</p>
   </div>
 
-  <div style="display: inline-block; margin: 10px;">
+  <div style="background-color: black; color: white; padding: 10px; display: inline-block; margin: 10px;">
     <a href="https://www.hackerrank.com/muna2411" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muna2411" height="30" width="40" />
     </a>
     <p>HackerRank</p>
   </div>
 
-  <div style="display: inline-block; margin: 10px;">
+  <div style="background-color: black; color: white; padding: 10px; display: inline-block; margin: 10px;">
     <a href="https://codeforces.com/profile/muna2411" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muna2411" height="30" width="40" />
     </a>
     <p>Codeforces</p>
   </div>
 </div>
-
 
 <h3 align="left">Tools I Know:</h3>
 <p align="center">
