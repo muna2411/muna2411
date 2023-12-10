@@ -31,15 +31,13 @@ Here are some ideas to get you started:
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muna2411&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muna2411&theme=nord_bright)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muna2411&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muna2411&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muna2411&theme=nord_bright)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muna2411&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muna2411&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muna2411&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muna2411&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muna2411&theme=nord_bright&utcOffset=8)
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
