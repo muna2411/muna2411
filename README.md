@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muna2411&theme=shadow-blue" alt="GitHub Streak" />
+  </a>
+</p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muna2411&theme=shadow-blue)](https://git.io/streak-stats)
 
 
 
