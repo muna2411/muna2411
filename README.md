@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<h3 align="left">Current Stats :</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=muna2411&theme=shadow-blue" alt="GitHub Streak" />
