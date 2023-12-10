@@ -2,7 +2,7 @@
 
 <!--
 **muna2411/muna2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://github.com/muna2411/muna2411/assets/75273255/2b36f61a-1369-4cc6-a516-e5bb022d3b05)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nur%20Nahar%20Muna&theme=whatsapp-dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
