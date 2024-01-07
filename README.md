@@ -1,6 +1,7 @@
 <p align="center">
 <p align="center">
-  <img src="https://i.ibb.co/HxZ7yvK/Nur-Nahar-Muna.jpg" alt="Banner Image">
+ <img src="https://i.ibb.co/pRFnp30/o.png" alt="o" alt="Banner Image">
+  
 </p>
 
 <h3 align="left">Description:</h3>
