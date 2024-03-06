@@ -1,8 +1,8 @@
 <p align="center">
-<p align="center">
+<div align="center">
  <img classname="w-full" src="https://i.ibb.co/pRFnp30/o.png" alt="o" alt="Banner Image">
   
-</p>
+</div>
 
 <h3 align="left">Description:</h3>
 <p style="font-size: 18px;">
