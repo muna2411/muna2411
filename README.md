@@ -1,5 +1,5 @@
 <p align="center">
-<div align="center">
+<div align="center" classname="w-full">
  <img classname="w-full" src="https://i.ibb.co/pRFnp30/o.png" alt="o" alt="Banner Image">
   
 </div>
