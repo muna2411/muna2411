@@ -1,6 +1,6 @@
 <p align="center">
 <div align="center" >
- <img height="500" width="100%"" src="https://i.ibb.co/TKp7cwP/Black-White-Modern-Personal-Branding-Youtube-Banner.png" alt="o" alt="Banner Image">
+ <img height="500" width="100%"" src="https://i.ibb.co/TKp7cwP/Black-White-Modern-Personal-Branding-Youtube-Banner.png" alt="o" alt="Image">
   
 </div>
 
