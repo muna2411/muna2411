@@ -21,7 +21,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on new projects .
-- 🌱 I’m currently learning Three.js .
+- 🌱 I’m currently learning Next.js .
 - 📫 How to reach me: nurnahar.muna.2411@gmail.com
 - ⚡ Fun fact: Nope .
 
